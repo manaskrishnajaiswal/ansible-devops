@@ -1,0 +1,2 @@
+# Copy-Command
+scp -i id_rsa -r ansible-devops/* ubuntu@44.201.52.3:/home/ubuntu/ansible-code
